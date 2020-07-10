@@ -1,4 +1,7 @@
 # Mask-Notifier-App
+```
+HackTheLib Categories : Most Practical/Scalable, Best Impact
+```
 No way to forget wearing mask, next time you move out of your home
 ### [Watch demo video here 📺](https://youtu.be/2WqxYZQEzbs)
 

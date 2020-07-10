@@ -5,6 +5,10 @@ HackTheLib Categories : Most Practical/Scalable, Best Impact
 No way to forget wearing mask, next time you move out of your home
 ### [Watch demo video here 📺](https://youtu.be/2WqxYZQEzbs)
 
+```
+Greetings to the Judges who are here to evaluate my idea. Hope you find it interesting 😃✌.
+```
+
 ## Inspiration
 It has become mandatory to wear a face mask during this pandemic period. Wearing a face mask will help prevent the individual from contracting any airborne infectious germs.
 WHO advises everyone to wear ask, every time you move out to any public area. However, it’s quite common to forget. That’s where our app comes in rescue.

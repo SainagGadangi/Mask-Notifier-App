@@ -1,6 +1,6 @@
 # Mask-Notifier-App
 No way to forget wearing mask, next time you move out of your home
-### [Watch demo video here 📺](https://youtu.be/AznsPFWe7H4)
+### [Watch demo video here 📺](https://youtu.be/2WqxYZQEzbs)
 
 ## Inspiration
 It has become mandatory to wear a face mask during this pandemic period. Wearing a face mask will help prevent the individual from contracting any airborne infectious germs.
